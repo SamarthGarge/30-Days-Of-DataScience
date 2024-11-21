@@ -157,7 +157,7 @@ git config --global user.email "your.email@example.com"
 1. Create a repository on GitHub.  
 2. Link your local repo to GitHub:  
    ```bash
-   git remote add origin https://github.com/your-username/30DaysOfDataScience.git
+   git remote add origin https://github.com/SamarthGarge/30DaysOfDataScience.git
    ```
 3. Push changes to GitHub:  
    ```bash
