@@ -2,8 +2,8 @@
 
 | **Day** | **Topic**                                | **Topics Covered**                    |
 |---------|------------------------------------------|--------------------------------------|
-| **01**   | Introduction to Data Science            | Setting up Python, Jupyter Notebook |
-| **02**   | Basics of the Language + Git Basics     | Python syntax, variables, Git setup |
+| **01**   | [Introduction to Data Science](README.md#-day-1-)| Setting up Python, Jupyter Notebook |
+| **02**   | [Basics of the Language + Git Basics](./02_Variables%2C%20DataTypes/02_variables_data_types.md)| Python syntax, variables, Git setup |
 <!-- 
 | **03**   | Control Flow                            | If-else, loops                      |
 | **04**   | Functions and Modular Programming       | Defining & calling functions         |
