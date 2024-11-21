@@ -3,15 +3,15 @@
 | **Day** | **Topic**                                | **Topics Covered**                    |
 |---------|------------------------------------------|--------------------------------------|
 | **01**   | Introduction to Data Science            | Setting up Python, Jupyter Notebook |
+| **02**   | Basics of the Language + Git Basics     | Python syntax, variables, Git setup |
 <!-- 
-| **2**   | Basics of the Language + Git Basics     | Python syntax, variables, Git setup |
-| **3**   | Control Flow                            | If-else, loops                      |
-| **4**   | Functions and Modular Programming       | Defining & calling functions         |
-| **5**   | Data Structures                         | Lists, tuples, dictionaries          |
-| **6**   | Data Frames and Tables                  | pandas DataFrame                     |
-| **7**   | Importing Data                          | Reading CSV, Excel, JSON files       |
-| **8**   | Data Cleaning                           | Handling missing values, duplicates  |
-| **9**   | Exploratory Data Analysis (EDA)         | Descriptive statistics               |
+| **03**   | Control Flow                            | If-else, loops                      |
+| **04**   | Functions and Modular Programming       | Defining & calling functions         |
+| **05**   | Data Structures                         | Lists, tuples, dictionaries          |
+| **06**   | Data Frames and Tables                  | pandas DataFrame                     |
+| **07**   | Importing Data                          | Reading CSV, Excel, JSON files       |
+| **08**   | Data Cleaning                           | Handling missing values, duplicates  |
+| **09**   | Exploratory Data Analysis (EDA)         | Descriptive statistics               |
 | **10**  | Data Visualization Basics               | matplotlib, seaborn                  |
 | **11**  | Advanced Data Visualization             | Plotly, advanced matplotlib          |
 | **12**  | SQL for Data Retrieval                  | sqlite3, SQLAlchemy                  |
