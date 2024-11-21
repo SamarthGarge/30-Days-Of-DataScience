@@ -2,8 +2,8 @@
 
 | **Day** | **Topic**                                | **Topics Covered**                    |
 |---------|------------------------------------------|--------------------------------------|
-| **01**   | [Introduction to Data Science](README.md#-day-1-)| Setting up Python, Jupyter Notebook |
-| **02**   | [Basics of the Language + Git Basics](./02_Variables%2C%20DataTypes/02_variables_data_types.md)| Python syntax, variables, Git setup |
+| **01**   | [Introduction to Data Science](README.md#-day-1)| Setting up Python, Jupyter Notebook |
+| **02**   | [Basics of the Language + Git Basics](./02_Basics%20of%20the%20Language%20%26%20Git%20Basics/02_Basics%20of%20the%20Language%20%26%20Git%20Basics.md)| Python syntax, variables, Git setup |
 <!-- 
 | **03**   | Control Flow                            | If-else, loops                      |
 | **04**   | Functions and Modular Programming       | Defining & calling functions         |
@@ -182,6 +182,10 @@ If you prefer to work within Visual Studio Code but want the interactivity of Ju
 
 Now you can use Jupyter notebooks directly within Visual Studio Code!
 
+
+
+
+[Day 2 >>](./02_Basics%20of%20the%20Language%20%26%20Git%20Basics/02_Basics%20of%20the%20Language%20%26%20Git%20Basics.md)
 
 
 
