@@ -2,6 +2,10 @@
 
 Welcome to Day 2 of the **30 Days of Data Science** challenge! Today, we’ll focus on learning the basics of Python syntax, understanding how variables work, and setting up Git for version control.
 
+
+[<< Day 1](../README.md#-day-1) | [Day 3 >>](../03_Control%20Flow/03_Control%20Flow.md)
+
+
 ## Table of Contents  
 - [📘 Day 2: Python Syntax, Variables, and Git Setup](#-day-2-python-syntax-variables-and-git-setup)
   - [1️⃣ Python Syntax 🐍](#1️⃣-python-syntax-)
@@ -209,7 +213,4 @@ Today, you:
 - Explored how to declare and use variables effectively.  
 - Set up Git for version control and pushed your first changes to GitHub.  
 
-### 🚀 Next Steps  
-In Day 3, we’ll dive into **If-else & loops** in Python. Stay consistent and keep practicing!  
 
-Happy Learning! ✨  
