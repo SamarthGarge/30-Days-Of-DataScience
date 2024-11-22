@@ -29,7 +29,7 @@ Welcome to Day 2 of the **30 Days of Data Science** challenge! Today, we’ll fo
     - [Variables](#variables)
     - [Git](#git)
   - [🌟 Summary](#-summary)
-  - [🚀 Next Steps](#-next-steps)
+  
 ---
 
 ### 1️⃣ Python Syntax 🐍  
