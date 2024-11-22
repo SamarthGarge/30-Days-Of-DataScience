@@ -4,8 +4,8 @@
 |---------|------------------------------------------|--------------------------------------|
 | **01**   | [Introduction to Data Science](README.md#-day-1)| Setting up Python, Jupyter Notebook |
 | **02**   | [Basics of the Language + Git Basics](./02_Basics%20of%20the%20Language%20%26%20Git%20Basics/02_Basics%20of%20the%20Language%20%26%20Git%20Basics.md)| Python syntax, variables, Git setup |
+| **03**   | [Control Flow](./03_Control%20Flow/03_Control%20Flow.md)| If-else, loops       |
 <!-- 
-| **03**   | Control Flow                            | If-else, loops                      |
 | **04**   | Functions and Modular Programming       | Defining & calling functions         |
 | **05**   | Data Structures                         | Lists, tuples, dictionaries          |
 | **06**   | Data Frames and Tables                  | pandas DataFrame                     |
