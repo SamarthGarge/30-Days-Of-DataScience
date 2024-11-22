@@ -4,7 +4,7 @@
 
 Welcome to Day 3 of the **30 Days of Data Science** series! Today, we will cover essential programming constructs—**If-Else Statements** and **Loops**—which are fundamental for controlling the flow of your Python programs. Let’s dive in!
 
----
+
 
 ## Table of Contents  
 - [📘 Day 3: If-Else and Loops in Python](#-day-3-if-else-and-loops-in-python)    
@@ -24,7 +24,7 @@ Welcome to Day 3 of the **30 Days of Data Science** series! Today, we will cover
   - [🌟 Summary](#-summary)  
   
 
----
+
 
 ## 1️⃣ If-Else Statements 🧠  
 
@@ -36,7 +36,7 @@ else:
     # Code block executed if the condition is False
 ```
 
----
+
 
 ### Example: Simple If-Else Statement  
 ```python
@@ -51,7 +51,7 @@ else:
 You are an adult!
 ```
 
----
+
 
 ### Example: Nested If-Else  
 ```python
@@ -69,7 +69,7 @@ else:
 You are a teenager!
 ```
 
----
+
 
 ### Example: If-Elif-Else  
 ```python
@@ -88,13 +88,13 @@ else:
 Grade: B
 ```
 
----
+
 
 ## 2️⃣ Loops 🔁  
 
 Loops allow repetitive tasks to be performed efficiently.
 
----
+
 
 ### For Loop  
 The **for** loop iterates over a sequence (like a list, tuple, or string).  
@@ -105,7 +105,7 @@ for item in sequence:
     # Code block to execute for each item
 ```
 
----
+
 
 ### Example: Using a For Loop  
 ```python
@@ -122,7 +122,7 @@ for num in numbers:
 5
 ```
 
----
+
 
 ### While Loop  
 The **while** loop executes a block of code as long as a condition is `True`.  
@@ -133,7 +133,7 @@ while condition:
     # Code block to execute
 ```
 
----
+
 
 ### Example: Using a While Loop  
 ```python
@@ -151,14 +151,14 @@ while count < 5:
 4
 ```
 
----
+
 
 ### Break and Continue  
 
 - **Break**: Terminates the loop prematurely.  
 - **Continue**: Skips the current iteration and moves to the next.  
 
----
+
 
 ### Example: Break and Continue  
 ```python
@@ -187,7 +187,7 @@ for num in range(1, 6):
 5
 ```
 
----
+
 
 ## 🧠 Practice Exercises  
 
@@ -195,14 +195,14 @@ for num in range(1, 6):
 1. Write a program that checks if a number is positive, negative, or zero.  
 2. Create a grade classifier using the if-elif-else structure.  
 
----
+
 
 ### Loops  
 1. Write a program that prints all even numbers from 1 to 50 using a for loop.  
 2. Create a program that sums the numbers from 1 to 100 using a while loop.  
 3. Use break and continue in a loop to demonstrate their functionality.  
 
----
+
 
 ## 🌟 Summary  
 
