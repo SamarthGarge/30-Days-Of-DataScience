@@ -6,8 +6,8 @@
 | **02**   | [Basics of the Language + Git Basics](./02_Basics%20of%20the%20Language%20%26%20Git%20Basics/02_Basics%20of%20the%20Language%20%26%20Git%20Basics.md)| Python syntax, variables, Git setup |
 | **03**   | [Control Flow](./03_Control%20Flow/03_Control%20Flow.md)| If-else, loops       |
 | **04**   | [Functions and Modular Programming](./04_Functions%20and%20Modular%20Programming/04_Functions%20and%20Modular%20Programming.md)| Defining & calling functions         |
+| **05**   | [Data Structures](./05_Data%20Structures/05_Data%20Structures.md)| Lists, tuples, dictionaries          |
 <!--
-| **05**   | Data Structures                         | Lists, tuples, dictionaries          |
 | **06**   | Data Frames and Tables                  | pandas DataFrame                     |
 | **07**   | Importing Data                          | Reading CSV, Excel, JSON files       |
 | **08**   | Data Cleaning                           | Handling missing values, duplicates  |
