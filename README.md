@@ -7,8 +7,8 @@
 | **03**   | [Control Flow](./03_Control%20Flow/03_Control%20Flow.md)| If-else, loops       |
 | **04**   | [Functions and Modular Programming](./04_Functions%20and%20Modular%20Programming/04_Functions%20and%20Modular%20Programming.md)| Defining & calling functions         |
 | **05**   | [Data Structures](./05_Data%20Structures/05_Data%20Structures.md)| Lists, tuples, dictionaries          |
+| **06**   | [Data Frames and Tables](./06_Data%20Frames%20and%20Tables/06_Data%20Frames%20and%20Tables.md)| pandas DataFrame                     |
 <!--
-| **06**   | Data Frames and Tables                  | pandas DataFrame                     |
 | **07**   | Importing Data                          | Reading CSV, Excel, JSON files       |
 | **08**   | Data Cleaning                           | Handling missing values, duplicates  |
 | **09**   | Exploratory Data Analysis (EDA)         | Descriptive statistics               |
