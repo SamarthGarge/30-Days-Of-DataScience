@@ -9,8 +9,8 @@
 | **05**   | [Data Structures](./05_Data%20Structures/05_Data%20Structures.md)| Lists, tuples, dictionaries          |
 | **06**   | [Data Frames and Tables](./06_Data%20Frames%20and%20Tables/06_Data%20Frames%20and%20Tables.md)| pandas DataFrame                     |
 | **07**   | [Importing Data](./07_Importing%20Data/07_Importing%20Data.md)| Reading CSV, Excel, JSON files       |
+| **08**   | [Data Cleaning](./08_Data%20Cleaning/08_Data%20Cleaning.md)| Handling missing values, duplicates  |
 <!--
-| **08**   | Data Cleaning                           | Handling missing values, duplicates  |
 | **09**   | Exploratory Data Analysis (EDA)         | Descriptive statistics               |
 | **10**  | Data Visualization Basics               | matplotlib, seaborn                  |
 | **11**  | Advanced Data Visualization             | Plotly, advanced matplotlib          |
