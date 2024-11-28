@@ -10,8 +10,8 @@
 | **06**   | [Data Frames and Tables](./06_Data%20Frames%20and%20Tables/06_Data%20Frames%20and%20Tables.md)| pandas DataFrame                     |
 | **07**   | [Importing Data](./07_Importing%20Data/07_Importing%20Data.md)| Reading CSV, Excel, JSON files       |
 | **08**   | [Data Cleaning](./08_Data%20Cleaning/08_Data%20Cleaning.md)| Handling missing values, duplicates  |
+| **09**   | [Exploratory Data Analysis (EDA)](./09_Exploratory%20Data%20Analysis%20(EDA)/09_Exploratory%20Data%20Analysis%20(EDA).md)         | Descriptive statistics               |
 <!--
-| **09**   | Exploratory Data Analysis (EDA)         | Descriptive statistics               |
 | **10**  | Data Visualization Basics               | matplotlib, seaborn                  |
 | **11**  | Advanced Data Visualization             | Plotly, advanced matplotlib          |
 | **12**  | SQL for Data Retrieval                  | sqlite3, SQLAlchemy                  |
