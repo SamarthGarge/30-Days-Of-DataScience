@@ -18,7 +18,7 @@
   - [7️⃣ Categorical Data Analysis](#7️⃣-categorical-data-analysis)
   - [8️⃣ Outlier Detection](#8️⃣-outlier-detection)
   - [9️⃣ Visualizations for Descriptive Statistics](#9️⃣-visualizations-for-descriptive-statistics)
-  <!-- - [🔟 Correlation and Relationships](#🔟-correlation-and-relationships) -->
+  - [1️⃣0️⃣ Correlation and Relationships](#1️⃣0️⃣-correlation-and-relationships)
   - [1️⃣1️⃣ Missing Values Analysis](#1️⃣1️⃣-missing-values-analysis)
   - [1️⃣2️⃣ Data Cleaning Insights](#1️⃣2️⃣-data-cleaning-insights)
   - [🧠 Practice Exercises](#-practice-exercises)
@@ -223,7 +223,7 @@ data['categorical_column'].value_counts().plot(kind='bar')
 
 
 
-## 🔟 Correlation and Relationships
+## 1️⃣0️⃣ Correlation and Relationships
 
 ### Correlation Coefficient
 
