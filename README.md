@@ -12,8 +12,8 @@
 | **08**   | [Data Cleaning](./08_Data%20Cleaning/08_Data%20Cleaning.md)| Handling missing values, duplicates  |
 | **09**   | [Exploratory Data Analysis (EDA)](./09_Exploratory%20Data%20Analysis%20(EDA)/09_Exploratory%20Data%20Analysis%20(EDA).md)         | Descriptive statistics               |
 | **10**  | [Data Visualization Basics](./10_Data%20Visualization%20Basics/10_Data%20Visualization%20Basics.md) | matplotlib, seaborn                  |
+| **11**  | [Advanced Data Visualization](./11_Advanced%20Data%20Visualization/11_Advanced%20Data%20Visualization.md)| Plotly, advanced matplotlib          |
 <!--
-| **11**  | Advanced Data Visualization             | Plotly, advanced matplotlib          |
 | **12**  | SQL for Data Retrieval                  | sqlite3, SQLAlchemy                  |
 | **13**  | Time Series Analysis Introduction       | pandas datetime, matplotlib          |
 | **14**  | Working with APIs and JSON              | requests, JSON module                |
