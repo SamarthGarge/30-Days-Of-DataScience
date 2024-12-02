@@ -14,8 +14,8 @@
 | **10**  | [Data Visualization Basics](./10_Data%20Visualization%20Basics/10_Data%20Visualization%20Basics.md) | matplotlib, seaborn                  |
 | **11**  | [Advanced Data Visualization](./11_Advanced%20Data%20Visualization/11_Advanced%20Data%20Visualization.md)| Plotly, advanced matplotlib          |
 | **12**  | [SQL for Data Retrieval](./12_SQL%20for%20Data%20Retrieval/12_SQL%20for%20Data%20Retrieval.md)| sqlite3, SQLAlchemy                  |
+| **13**  | [Time Series Analysis Introduction](./13_Time%20Series%20Analysis%20Introduction/13_Time%20Series%20Analysis%20Introduction.md)| pandas datetime, matplotlib          |
 <!--
-| **13**  | Time Series Analysis Introduction       | pandas datetime, matplotlib          |
 | **14**  | Working with APIs and JSON              | requests, JSON module                |
 | **15**  | Regular Expressions                     | re module                            |
 | **16**  | Statistical Concepts                    | Scipy, NumPy                         |
