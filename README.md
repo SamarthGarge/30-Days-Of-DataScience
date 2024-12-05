@@ -17,8 +17,8 @@
 | **13**  | [Time Series Analysis Introduction](./13_Time%20Series%20Analysis%20Introduction/13_Time%20Series%20Analysis%20Introduction.md)| pandas datetime, matplotlib          |
 | **14**  | [Working with APIs and JSON](./14_Working%20with%20APIs%20and%20JSON/14_Working%20with%20APIs%20and%20JSON.md)| requests, JSON module                |
 | **15**  | [Regular Expressions](./15_Regular%20Expressions/15_Regular%20Expressions.md)| re module                            |
+| **16**  | [Statistical Concepts](./16_Statistical%20Concepts/16_Statistical%20Concepts.md)| Scipy, NumPy                         |
 <!--
-| **16**  | Statistical Concepts                    | Scipy, NumPy                         |
 | **17**  | Hypothesis Testing                      | t-test, chi-square                   |
 | **18**  | Basic Machine Learning Introduction     | scikit-learn basics                  |
 | **19**  | Linear Regression                       | LinearRegression in scikit-learn     |
