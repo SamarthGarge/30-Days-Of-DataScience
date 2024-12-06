@@ -18,8 +18,8 @@
 | **14**  | [Working with APIs and JSON](./14_Working%20with%20APIs%20and%20JSON/14_Working%20with%20APIs%20and%20JSON.md)| requests, JSON module                |
 | **15**  | [Regular Expressions](./15_Regular%20Expressions/15_Regular%20Expressions.md)| re module                            |
 | **16**  | [Statistical Concepts](./16_Statistical%20Concepts/16_Statistical%20Concepts.md)| Scipy, NumPy                         |
+| **17**  | [Hypothesis Testing](./17_Hypothesis%20Testing/17_Hypothesis%20Testing.md)| t-test, chi-square                   |
 <!--
-| **17**  | Hypothesis Testing                      | t-test, chi-square                   |
 | **18**  | Basic Machine Learning Introduction     | scikit-learn basics                  |
 | **19**  | Linear Regression                       | LinearRegression in scikit-learn     |
 | **20**  | Logistic Regression                     | LogisticRegression in scikit-learn   |
