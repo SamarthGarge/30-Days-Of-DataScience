@@ -12,7 +12,7 @@
   - [Variance](#variance) 🔄  
   - [Percentile](#percentile) 📊  
 - [SciPy for Advanced Statistics](#scipy-for-advanced-statistics) ⚡  
-  <!-- [Probability Distributions](#probability-distributions) 🎛️-->  
+  - [Probability Distributions ](#probability-distributions) 🎛️  
   - [Hypothesis Testing](#hypothesis-testing) 🔍  
   - [Linear Regression](#linear-regression) 📉  
 - [Practice Exercises](#practice-exercises) 📝  
@@ -139,8 +139,8 @@ print(f"50th Percentile: {percentile}")
 
 SciPy builds on NumPy and provides additional statistical capabilities.  
 
-### Probability Distributions 🎛️  
-SciPy supports numerous probability distributions, such as normal, binomial, and uniform.  
+### Probability Distributions
+SciPy supports numerous probability distributions, such as normal, binomial, and uniform.
 
 *Example: Normal Distribution*  
 
