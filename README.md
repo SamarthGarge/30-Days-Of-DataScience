@@ -19,8 +19,8 @@
 | **15**  | [Regular Expressions](./15_Regular%20Expressions/15_Regular%20Expressions.md)| re module                            |
 | **16**  | [Statistical Concepts](./16_Statistical%20Concepts/16_Statistical%20Concepts.md)| Scipy, NumPy                         |
 | **17**  | [Hypothesis Testing](./17_Hypothesis%20Testing/17_Hypothesis%20Testing.md)| t-test, chi-square                   |
+| **18**  | [Basic Machine Learning Introduction](./18_Basic%20Machine%20Learning%20Introduction/18_Basic%20Machine%20Learning%20Introduction.md)| scikit-learn basics                  |
 <!--
-| **18**  | Basic Machine Learning Introduction     | scikit-learn basics                  |
 | **19**  | Linear Regression                       | LinearRegression in scikit-learn     |
 | **20**  | Logistic Regression                     | LogisticRegression in scikit-learn   |
 | **21**  | Clustering (K-Means)                    | KMeans in scikit-learn               |
