@@ -21,8 +21,8 @@
 | **17**  | [Hypothesis Testing](./17_Hypothesis%20Testing/17_Hypothesis%20Testing.md)| t-test, chi-square                   |
 | **18**  | [Basic Machine Learning Introduction](./18_Basic%20Machine%20Learning%20Introduction/18_Basic%20Machine%20Learning%20Introduction.md)| scikit-learn basics                  |
 | **19**  | [Linear Regression](./19_Linear%20Regression/19_Linear%20Regression.md)| LinearRegression in scikit-learn     |
+| **20**  | [Logistic Regression](./20_Logistic%20Regression/20_Logistic%20Regression.md)| LogisticRegression in scikit-learn   |
 <!--
-| **20**  | Logistic Regression                     | LogisticRegression in scikit-learn   |
 | **21**  | Clustering (K-Means)                    | KMeans in scikit-learn               |
 | **22**  | Decision Trees                          | DecisionTreeClassifier in scikit-learn |
 | **23**  | Handling Imbalanced Data                | SMOTE, class weighting               |
