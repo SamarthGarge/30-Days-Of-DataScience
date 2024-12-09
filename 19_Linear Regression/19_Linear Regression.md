@@ -1,4 +1,4 @@
-[<< Day 18](../18_Basic%20Machine%20Learning%20Introduction/18_Basic%20Machine%20Learning%20Introduction.md) | [Day 20 >>](../)
+[<< Day 18](../18_Basic%20Machine%20Learning%20Introduction/18_Basic%20Machine%20Learning%20Introduction.md) | [Day 20 >>](../20_Logistic%20Regression/20_Logistic%20Regression.md)
 
 
 
