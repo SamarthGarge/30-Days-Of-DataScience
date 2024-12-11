@@ -23,8 +23,8 @@
 | **19**  | [Linear Regression](./19_Linear%20Regression/19_Linear%20Regression.md)| LinearRegression in scikit-learn     |
 | **20**  | [Logistic Regression](./20_Logistic%20Regression/20_Logistic%20Regression.md)| LogisticRegression in scikit-learn   |
 | **21**  | [Clustering (K-Means)](./21_Clustering%20(K-Means)/21_Clustering%20(K-Means).md)| KMeans in scikit-learn               |
+| **22**  | [Decision Trees](./22_Decision%20Trees/22_Decision%20Trees.md)| DecisionTreeClassifier in scikit-learn |
 <!--
-| **22**  | Decision Trees                          | DecisionTreeClassifier in scikit-learn |
 | **23**  | Handling Imbalanced Data                | SMOTE, class weighting               |
 | **24**  | Feature Engineering                     | Encoding, scaling, feature selection |
 | **25**  | Model Evaluation and Metrics            | Confusion matrix, ROC-AUC            |
