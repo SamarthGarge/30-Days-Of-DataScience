@@ -26,8 +26,8 @@
 | **22**  | [Decision Trees](./22_Decision%20Trees/22_Decision%20Trees.md)| DecisionTreeClassifier in scikit-learn |
 | **23**  | [Handling Imbalanced Data](./23_Handling%20Imbalanced%20Data/23_Handling%20Imbalanced%20Data.md)| SMOTE, class weighting               |
 | **24**  | [Feature Engineering](./24_Feature%20Engineering/24_Feature%20Engineering.md)| Encoding, scaling, feature selection |
+| **25**  | [Model Evaluation and Metrics](./25_Model%20Evaluation%20and%20Metrics/25_Model%20Evaluation%20and%20Metrics.md)| Confusion matrix, ROC-AUC            |
 <!--
-| **25**  | Model Evaluation and Metrics            | Confusion matrix, ROC-AUC            |
 | **26**  | Advanced ML: Hyperparameter Tuning      | GridSearchCV, RandomizedSearchCV     |
 | **27**  | Natural Language Processing (NLP)       | NLTK, spaCy, Hugging Face            |
 | **28**  | Time Series Forecasting                 | ARIMA, Prophet                       |
