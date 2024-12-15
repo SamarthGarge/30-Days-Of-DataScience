@@ -27,8 +27,8 @@
 | **23**  | [Handling Imbalanced Data](./23_Handling%20Imbalanced%20Data/23_Handling%20Imbalanced%20Data.md)| SMOTE, class weighting               |
 | **24**  | [Feature Engineering](./24_Feature%20Engineering/24_Feature%20Engineering.md)| Encoding, scaling, feature selection |
 | **25**  | [Model Evaluation and Metrics](./25_Model%20Evaluation%20and%20Metrics/25_Model%20Evaluation%20and%20Metrics.md)| Confusion matrix, ROC-AUC            |
+| **26**  | [Advanced ML: Hyperparameter Tuning](./26_Advanced%20ML%3A%20Hyperparameter%20Tuning/26_Advanced%20ML%3A%20Hyperparameter%20Tuning.md)| GridSearchCV, RandomizedSearchCV     |
 <!--
-| **26**  | Advanced ML: Hyperparameter Tuning      | GridSearchCV, RandomizedSearchCV     |
 | **27**  | Natural Language Processing (NLP)       | NLTK, spaCy, Hugging Face            |
 | **28**  | Time Series Forecasting                 | ARIMA, Prophet                       |
 | **29**  | Working with Big Data                   | PySpark basics                       |
