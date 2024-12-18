@@ -30,10 +30,10 @@
 | **26**  | [Advanced ML: Hyperparameter Tuning](./26_Advanced%20ML%3A%20Hyperparameter%20Tuning/26_Advanced%20ML%3A%20Hyperparameter%20Tuning.md)| GridSearchCV, RandomizedSearchCV     |
 | **27**  | [Natural Language Processing (NLP)](./27_Natural%20Language%20Processing%20(NLP)/27_Natural%20Language%20Processing%20(NLP).md)| NLTK, spaCy, Hugging Face            |
 | **28**  | [Time Series Forecasting](./28_Time%20Series%20Forecasting/28_Time%20Series%20Forecasting.md)| ARIMA, Prophet                       |
+| **29**  | [Working with Big Data](./29_Working%20with%20Big%20Data/29_Working%20with%20Big%20Data.md)                   | PySpark basics                       |
 <!--
-| **29**  | Working with Big Data                   | PySpark basics                       |
-| **30**  | Building a Data Science Pipeline        | sklearn pipeline, joblib             | 
-| **31**  | Deployment on Cloud Platform            | Deploy with Flask/FastAPI to AWS, Azure, or GCP |
+| **30**  | [Building a Data Science Pipeline](./)        | sklearn pipeline, joblib             | 
+| **31**  | [Deployment on Cloud Platform](./)            | Deploy with Flask/FastAPI to AWS, Azure, or GCP |
 -->
 
 - [👨‍🔬 30 Days Of Data Science](#-30-days-of-data-science)
