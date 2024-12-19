@@ -31,8 +31,8 @@
 | **27**  | [Natural Language Processing (NLP)](./27_Natural%20Language%20Processing%20(NLP)/27_Natural%20Language%20Processing%20(NLP).md)| NLTK, spaCy, Hugging Face            |
 | **28**  | [Time Series Forecasting](./28_Time%20Series%20Forecasting/28_Time%20Series%20Forecasting.md)| ARIMA, Prophet                       |
 | **29**  | [Working with Big Data](./29_Working%20with%20Big%20Data/29_Working%20with%20Big%20Data.md)                   | PySpark basics                       |
+| **30**  | [Building a Data Science Pipeline](./30_Building%20a%20Data%20Science%20Pipeline/30_Building%20a%20Data%20Science%20Pipeline.md)| sklearn pipeline, joblib             | 
 <!--
-| **30**  | [Building a Data Science Pipeline](./)        | sklearn pipeline, joblib             | 
 | **31**  | [Deployment on Cloud Platform](./)            | Deploy with Flask/FastAPI to AWS, Azure, or GCP |
 -->
 
