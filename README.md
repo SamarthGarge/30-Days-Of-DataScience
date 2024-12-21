@@ -32,7 +32,7 @@
 | **28**  | [Time Series Forecasting](./28_Time%20Series%20Forecasting/28_Time%20Series%20Forecasting.md)| ARIMA, Prophet                       |
 | **29**  | [Working with Big Data](./29_Working%20with%20Big%20Data/29_Working%20with%20Big%20Data.md)                   | PySpark basics                       |
 | **30**  | [Building a Data Science Pipeline](./30_Building%20a%20Data%20Science%20Pipeline/30_Building%20a%20Data%20Science%20Pipeline.md)| sklearn pipeline, joblib             | 
-| **31**  | [Deployment on Cloud Platform](./31_Deployment%20on%20Cloud%20Platform.md)| Deploy with Flask/FastAPI to AWS, Azure, or GCP |
+| **31**  | [Deployment on Cloud Platform](./31_Deployment%20on%20Cloud%20Platform/31_Deployment%20on%20Cloud%20Platform.md)| Deploy with Flask/FastAPI to AWS, Azure, or GCP |
 
 
 - [👨‍🔬 30 Days Of Data Science](#-30-days-of-data-science)
